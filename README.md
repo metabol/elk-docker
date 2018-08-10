@@ -1,6 +1,9 @@
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 
-[![](https://images.microbadger.com/badges/image/sebp/elk.svg)](https://microbadger.com/images/sebp/elk "Get your own image badge on microbadger.com") [![Documentation Status](https://readthedocs.org/projects/elk-docker/badge/?version=latest)](http://elk-docker.readthedocs.io/?badge=latest)
+[![](https://images.microbadger.com/badges/image/sebp/elk.svg)](https://microbadger.com/images/sebp/elk "Get your own image badge on microbadger.com")
+[![Documentation Status](https://readthedocs.org/projects/elk-docker/badge/?version=latest)](http://elk-docker.readthedocs.io/?badge=latest)
+
+[![standalone Installation Documentation ](https://logz.io/learn/complete-guide-elk-stack/)
 
 This Docker image provides a convenient centralised log server and log management web interface, by packaging Elasticsearch, Logstash, and Kibana, collectively known as ELK.
 
@@ -9,6 +12,13 @@ This Docker image provides a convenient centralised log server and log managemen
 See the [ELK Docker image documentation web page](http://elk-docker.readthedocs.io/) for complete instructions on how to use this image.
 
 
+#Testing Services
+- Kibana http://localhost:5601
+- ElasticSearch http://localhost:9200
+- Logstash http://localhost:9600
+- FileBeat http://localhost:5044
+
+*Remember to open ports if necessary
 
 
 ### Important 
