@@ -9,8 +9,8 @@
 #     --name filebeat-nginx-example filebeat-nginx-example
 
 FROM nginx
-MAINTAINER Sebastien Pujadas http://pujadas.net
-ENV REFRESHED_AT 2016-11-04
+MAINTAINER metabol
+ENV REFRESHED_AT 2018-08-10
 
 
 ###############################################################################
