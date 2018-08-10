@@ -29,6 +29,6 @@ This image is hosted on Docker Hub at [https://hub.docker.com/r/sebp/elk/](https
 
 ### About
 
-Written by [Sébastien Pujadas](https://pujadas.net), released under the [Apache 2 license](https://www.apache.org/licenses/LICENSE-2.0).
+Released under the [Apache 2 license](https://www.apache.org/licenses/LICENSE-2.0).
 
-Edited by Metabol 2018-08-10
+By Metabol 2018-08-10
